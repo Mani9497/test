@@ -1,3 +1,2 @@
-print("Enter Your Name: ")
-name = input()
-print("\nHello", name, "\nWelcome")
+print("test program")
+print("output is ok")
